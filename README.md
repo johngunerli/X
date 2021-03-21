@@ -1,3 +1,6 @@
+everything starts here. 
+
+
 # experimentation-station
 area for experimentation, and sub repo creation
 ## why?
