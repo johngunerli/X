@@ -8,7 +8,7 @@ Don't clone.
 
 ## why
 
-well, i keep most of my unfinished repos in my BitBucket. however, github has good implementation for certain products like heroku etc and so I need a repo to experiment on. it's like a homelab, except it's not melting my computer, it''ll be melting your computer.
+well, i moved most of my projects to github, but i don't want to keep creating repos. instead, i push them here first and then make them their own repo afterwards.
 
 ## Authors
 
